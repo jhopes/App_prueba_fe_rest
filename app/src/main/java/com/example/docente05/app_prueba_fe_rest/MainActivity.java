@@ -21,9 +21,6 @@ import java.io.InputStream;
 
 public class MainActivity extends Activity implements View.OnClickListener {
 
-    EditText etResponse;
-    TextView tvIsConnected;
-
     @Override
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
